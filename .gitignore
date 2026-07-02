@@ -1,0 +1,21 @@
+node_modules/
+.next/
+.env
+*.zip
+*.jfif
+profile_extracted/
+stitch_design/
+tsconfig.tsbuildinfo
+
+# Dev server logs
+*.err.log
+*.out.log
+
+# Playwright MCP artifacts
+.playwright-mcp/
+
+# Local planning docs
+implementation_plan.md
+
+# Source logos folder (only public/logos is tracked)
+/logos/
